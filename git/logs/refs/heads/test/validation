@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 7f7d0f2dc00be3ab12d7205f839584880553ff77 Weronika Szymańska <287559@student.pwr.edu.pl> 1764717088 +0100	branch: Created from feature/validation
+7f7d0f2dc00be3ab12d7205f839584880553ff77 9eba4339eab0754def6184befab6ed419e495b59 Weronika Szymańska <287559@student.pwr.edu.pl> 1764717210 +0100	commit: Add JavaFixture and create ZamowienieValidatorTest

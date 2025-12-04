@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 9eba4339eab0754def6184befab6ed419e495b59 Weronika Szymańska <287559@student.pwr.edu.pl> 1764717238 +0100	branch: Created from test/validation
+9eba4339eab0754def6184befab6ed419e495b59 389e4a0cadbb3043671cd9b78db5c6e665e6d3dc Weronika Szymańska <287559@student.pwr.edu.pl> 1764717460 +0100	commit: Change generujNumer method, added OrderNumberTest

@@ -1,0 +1,46 @@
+0000000000000000000000000000000000000000 09b59f0e46db5d9557bd88a066b6d9328fb878a3 Weronika Szymańska <287559@student.pwr.edu.pl> 1764100506 +0100	commit (initial): Initial commit
+09b59f0e46db5d9557bd88a066b6d9328fb878a3 09b59f0e46db5d9557bd88a066b6d9328fb878a3 Weronika Szymańska <287559@student.pwr.edu.pl> 1764100717 +0100	checkout: moving from main to main
+09b59f0e46db5d9557bd88a066b6d9328fb878a3 09b59f0e46db5d9557bd88a066b6d9328fb878a3 Weronika Szymańska <287559@student.pwr.edu.pl> 1764100927 +0100	checkout: moving from main to feature/add-unit-test
+09b59f0e46db5d9557bd88a066b6d9328fb878a3 da0019237604bd507a219ed8f05be5d6038f5801 Weronika Szymańska <287559@student.pwr.edu.pl> 1764100960 +0100	commit: Add JUnit configuration
+da0019237604bd507a219ed8f05be5d6038f5801 09b59f0e46db5d9557bd88a066b6d9328fb878a3 Weronika Szymańska <287559@student.pwr.edu.pl> 1764101074 +0100	checkout: moving from feature/add-unit-test to main
+09b59f0e46db5d9557bd88a066b6d9328fb878a3 09b59f0e46db5d9557bd88a066b6d9328fb878a3 Weronika Szymańska <287559@student.pwr.edu.pl> 1764101080 +0100	checkout: moving from main to feature/validation
+09b59f0e46db5d9557bd88a066b6d9328fb878a3 5872c9f9d01f776c7bf45dde02af97d0b879f9d0 Weronika Szymańska <287559@student.pwr.edu.pl> 1764101161 +0100	commit: Add order validation
+5872c9f9d01f776c7bf45dde02af97d0b879f9d0 09b59f0e46db5d9557bd88a066b6d9328fb878a3 Weronika Szymańska <287559@student.pwr.edu.pl> 1764101214 +0100	checkout: moving from feature/validation to main
+09b59f0e46db5d9557bd88a066b6d9328fb878a3 09b59f0e46db5d9557bd88a066b6d9328fb878a3 Weronika Szymańska <287559@student.pwr.edu.pl> 1764101225 +0100	checkout: moving from main to test/validation
+09b59f0e46db5d9557bd88a066b6d9328fb878a3 07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f Weronika Szymańska <287559@student.pwr.edu.pl> 1764101405 +0100	commit: Add validation tests
+07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f 09b59f0e46db5d9557bd88a066b6d9328fb878a3 Weronika Szymańska <287559@student.pwr.edu.pl> 1764101442 +0100	checkout: moving from test/validation to main
+09b59f0e46db5d9557bd88a066b6d9328fb878a3 09b59f0e46db5d9557bd88a066b6d9328fb878a3 Weronika Szymańska <287559@student.pwr.edu.pl> 1764101446 +0100	checkout: moving from main to test/order-number-generation
+09b59f0e46db5d9557bd88a066b6d9328fb878a3 f3c7631514b85a2096e5756f59224db6b66e29a7 Weronika Szymańska <287559@student.pwr.edu.pl> 1764101994 +0100	commit: Add order number test
+f3c7631514b85a2096e5756f59224db6b66e29a7 07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f Weronika Szymańska <287559@student.pwr.edu.pl> 1764106232 +0100	checkout: moving from test/order-number-generation to test/validation
+07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f f3c7631514b85a2096e5756f59224db6b66e29a7 Weronika Szymańska <287559@student.pwr.edu.pl> 1764106342 +0100	checkout: moving from test/validation to test/order-number-generation
+f3c7631514b85a2096e5756f59224db6b66e29a7 07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f Weronika Szymańska <287559@student.pwr.edu.pl> 1764106611 +0100	checkout: moving from test/order-number-generation to test/validation
+07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f f3c7631514b85a2096e5756f59224db6b66e29a7 Weronika Szymańska <287559@student.pwr.edu.pl> 1764106844 +0100	checkout: moving from test/validation to test/order-number-generation
+f3c7631514b85a2096e5756f59224db6b66e29a7 07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f Weronika Szymańska <287559@student.pwr.edu.pl> 1764107034 +0100	checkout: moving from test/order-number-generation to test/validation
+07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f 07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f Weronika Szymańska <287559@student.pwr.edu.pl> 1764714129 +0100	reset: moving to HEAD
+07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f 4ef65ec62d06d9782de14d4dee1f192c34a38ce2 Weronika Szymańska <287559@student.pwr.edu.pl> 1764714170 +0100	commit: validation
+4ef65ec62d06d9782de14d4dee1f192c34a38ce2 da0019237604bd507a219ed8f05be5d6038f5801 Weronika Szymańska <287559@student.pwr.edu.pl> 1764714202 +0100	checkout: moving from test/validation to feature/add-unit-test
+da0019237604bd507a219ed8f05be5d6038f5801 5872c9f9d01f776c7bf45dde02af97d0b879f9d0 Weronika Szymańska <287559@student.pwr.edu.pl> 1764714415 +0100	checkout: moving from feature/add-unit-test to feature/validation
+5872c9f9d01f776c7bf45dde02af97d0b879f9d0 4ef65ec62d06d9782de14d4dee1f192c34a38ce2 Weronika Szymańska <287559@student.pwr.edu.pl> 1764714634 +0100	checkout: moving from feature/validation to test/validation
+4ef65ec62d06d9782de14d4dee1f192c34a38ce2 3555608fe85d64c7dcd9dba98c481f502718a3c5 Weronika Szymańska <287559@student.pwr.edu.pl> 1764714868 +0100	commit: fix
+3555608fe85d64c7dcd9dba98c481f502718a3c5 f3c7631514b85a2096e5756f59224db6b66e29a7 Weronika Szymańska <287559@student.pwr.edu.pl> 1764714916 +0100	checkout: moving from test/validation to test/order-number-generation
+f3c7631514b85a2096e5756f59224db6b66e29a7 da0019237604bd507a219ed8f05be5d6038f5801 Weronika Szymańska <287559@student.pwr.edu.pl> 1764715139 +0100	checkout: moving from test/order-number-generation to feature/add-unit-test
+da0019237604bd507a219ed8f05be5d6038f5801 da0019237604bd507a219ed8f05be5d6038f5801 Weronika Szymańska <287559@student.pwr.edu.pl> 1764715164 +0100	checkout: moving from feature/add-unit-test to feature/add-unit-test
+da0019237604bd507a219ed8f05be5d6038f5801 5872c9f9d01f776c7bf45dde02af97d0b879f9d0 Weronika Szymańska <287559@student.pwr.edu.pl> 1764715171 +0100	checkout: moving from feature/add-unit-test to feature/validation
+5872c9f9d01f776c7bf45dde02af97d0b879f9d0 3555608fe85d64c7dcd9dba98c481f502718a3c5 Weronika Szymańska <287559@student.pwr.edu.pl> 1764715196 +0100	checkout: moving from feature/validation to test/validation
+3555608fe85d64c7dcd9dba98c481f502718a3c5 f3c7631514b85a2096e5756f59224db6b66e29a7 Weronika Szymańska <287559@student.pwr.edu.pl> 1764715308 +0100	checkout: moving from test/validation to test/order-number-generation
+f3c7631514b85a2096e5756f59224db6b66e29a7 09b59f0e46db5d9557bd88a066b6d9328fb878a3 Weronika Szymańska <287559@student.pwr.edu.pl> 1764715435 +0100	checkout: moving from test/order-number-generation to main
+09b59f0e46db5d9557bd88a066b6d9328fb878a3 185f964d80966ccb03e6daf17c3d501f8eb4cf6a Weronika Szymańska <287559@student.pwr.edu.pl> 1764716284 +0100	commit: Initial commit
+185f964d80966ccb03e6daf17c3d501f8eb4cf6a 185f964d80966ccb03e6daf17c3d501f8eb4cf6a Weronika Szymańska <287559@student.pwr.edu.pl> 1764716667 +0100	checkout: moving from main to feature/add-unit-test
+185f964d80966ccb03e6daf17c3d501f8eb4cf6a c1d679de8a2614d3c57136de1deea942ce8bba65 Weronika Szymańska <287559@student.pwr.edu.pl> 1764716729 +0100	commit: Add unit test
+c1d679de8a2614d3c57136de1deea942ce8bba65 c1d679de8a2614d3c57136de1deea942ce8bba65 Weronika Szymańska <287559@student.pwr.edu.pl> 1764716907 +0100	checkout: moving from feature/add-unit-test to feature/validation
+c1d679de8a2614d3c57136de1deea942ce8bba65 c1d679de8a2614d3c57136de1deea942ce8bba65 Weronika Szymańska <287559@student.pwr.edu.pl> 1764716935 +0100	checkout: moving from feature/validation to feature/add-unit-test
+c1d679de8a2614d3c57136de1deea942ce8bba65 185f964d80966ccb03e6daf17c3d501f8eb4cf6a Weronika Szymańska <287559@student.pwr.edu.pl> 1764716962 +0100	checkout: moving from feature/add-unit-test to main
+185f964d80966ccb03e6daf17c3d501f8eb4cf6a c1d679de8a2614d3c57136de1deea942ce8bba65 Weronika Szymańska <287559@student.pwr.edu.pl> 1764716966 +0100	checkout: moving from main to feature/validation
+c1d679de8a2614d3c57136de1deea942ce8bba65 7f7d0f2dc00be3ab12d7205f839584880553ff77 Weronika Szymańska <287559@student.pwr.edu.pl> 1764717034 +0100	commit: Create ZamowienieValidator
+7f7d0f2dc00be3ab12d7205f839584880553ff77 7f7d0f2dc00be3ab12d7205f839584880553ff77 Weronika Szymańska <287559@student.pwr.edu.pl> 1764717095 +0100	checkout: moving from feature/validation to test/validation
+7f7d0f2dc00be3ab12d7205f839584880553ff77 9eba4339eab0754def6184befab6ed419e495b59 Weronika Szymańska <287559@student.pwr.edu.pl> 1764717210 +0100	commit: Add JavaFixture and create ZamowienieValidatorTest
+9eba4339eab0754def6184befab6ed419e495b59 9eba4339eab0754def6184befab6ed419e495b59 Weronika Szymańska <287559@student.pwr.edu.pl> 1764717250 +0100	checkout: moving from test/validation to test/order-number-generation
+9eba4339eab0754def6184befab6ed419e495b59 389e4a0cadbb3043671cd9b78db5c6e665e6d3dc Weronika Szymańska <287559@student.pwr.edu.pl> 1764717460 +0100	commit: Change generujNumer method, added OrderNumberTest
+389e4a0cadbb3043671cd9b78db5c6e665e6d3dc 7f7d0f2dc00be3ab12d7205f839584880553ff77 Weronika Szymańska <287559@student.pwr.edu.pl> 1764717676 +0100	checkout: moving from test/order-number-generation to feature/validation
+7f7d0f2dc00be3ab12d7205f839584880553ff77 185f964d80966ccb03e6daf17c3d501f8eb4cf6a Weronika Szymańska <287559@student.pwr.edu.pl> 1764717683 +0100	checkout: moving from feature/validation to main
+185f964d80966ccb03e6daf17c3d501f8eb4cf6a 389e4a0cadbb3043671cd9b78db5c6e665e6d3dc Weronika Szymańska <287559@student.pwr.edu.pl> 1764717907 +0100	checkout: moving from main to test/order-number-generation
