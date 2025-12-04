@@ -1,0 +1,11 @@
+name: registry
+services:
+  registry:
+    image: registry:2
+    container_name: registry
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./data:/var/lib/registry
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

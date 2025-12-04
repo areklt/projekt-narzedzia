@@ -1,0 +1,6 @@
+services:
+  projekt-narzedzia:
+    image: projekt-narzedzia:1
+    container_name: "projekt-narzedzia"
+    volumes:
+      - ../src/main/resources/Zamowienia:/app/src/main/resources/Zamowienia
