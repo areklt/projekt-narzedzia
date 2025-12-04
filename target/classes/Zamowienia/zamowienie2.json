@@ -1,0 +1,25 @@
+{
+  "klient": {
+  "imie": "Maciej",
+  "nazwisko": "Bartczak",
+  "email": "martczak@gmail.com",
+  "numer": "+48 934 228 730"
+},
+  "produkty": [
+    {
+      "kod": "27632A",
+      "ilosc": "50",
+      "jednostka": "ml"
+    },
+    {
+      "kod": "35642Q",
+      "ilosc": "5",
+      "jednostka": "szt"
+    },
+    {
+      "kod": "44556G",
+      "ilosc": "15",
+      "jednostka": "ml"
+    }
+  ]
+}

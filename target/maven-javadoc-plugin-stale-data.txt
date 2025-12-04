@@ -1,0 +1,54 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/arekk/.m2/repository/org/apache/commons/commons-configuration2/2.12.0/commons-configuration2-2.12.0.jar;C:/Users/arekk/.m2/repository/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar;C:/Users/arekk/.m2/repository/org/apache/commons/commons-text/1.13.1/commons-text-1.13.1.jar;C:/Users/arekk/.m2/repository/commons-logging/commons-logging/1.3.5/commons-logging-1.3.5.jar;C:/Users/arekk/.m2/repository/commons-beanutils/commons-beanutils/1.11.0/commons-beanutils-1.11.0.jar;C:/Users/arekk/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar;C:/Users/arekk/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.20.0/jackson-databind-2.20.0.jar;C:/Users/arekk/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.20/jackson-annotations-2.20.jar;C:/Users/arekk/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.20.0/jackson-core-2.20.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'24'
+-sourcepath
+'C:/Users/arekk/Downloads/Projekt_nprogramistyczne/src/main/java;C:/Users/arekk/Downloads/Projekt_nprogramistyczne/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/arekk/Downloads/Projekt_nprogramistyczne/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Projekt_nprogramistyczne 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Projekt_nprogramistyczne 1.0-SNAPSHOT API'
+org.example
+C:\Users\arekk\.m2\repository\org\apache\commons\commons-configuration2\2.12.0\commons-configuration2-2.12.0.jar = 1761247149149
+C:\Users\arekk\.m2\repository\org\apache\commons\commons-lang3\3.17.0\commons-lang3-3.17.0.jar = 1761247148904
+C:\Users\arekk\.m2\repository\org\apache\commons\commons-text\1.13.1\commons-text-1.13.1.jar = 1761247148487
+C:\Users\arekk\.m2\repository\commons-logging\commons-logging\1.3.5\commons-logging-1.3.5.jar = 1761247148114
+C:\Users\arekk\.m2\repository\commons-beanutils\commons-beanutils\1.11.0\commons-beanutils-1.11.0.jar = 1761247148521
+C:\Users\arekk\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar = 1761247148308
+C:\Users\arekk\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.20.0\jackson-databind-2.20.0.jar = 1761247149145
+C:\Users\arekk\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.20\jackson-annotations-2.20.jar = 1761247148352
+C:\Users\arekk\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.20.0\jackson-core-2.20.0.jar = 1761247148826
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\src\main\java = 1760044462000
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\generated-sources\annotations = 1761252350608
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\allclasses-index.html = 1761252354757
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\allpackages-index.html = 1761252354770
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\element-list = 1761252354582
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\help-doc.html = 1761252354850
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\index-all.html = 1761252354831
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\index.html = 1761252354839
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\member-search-index.js = 1761252354806
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\module-search-index.js = 1761252354773
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\overview-tree.html = 1761252354725
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\package-search-index.js = 1761252354780
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\search.html = 1761252354836
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\tag-search-index.js = 1761252354811
+C:\Users\arekk\Downloads\Projekt_nprogramistyczne\target\reports\apidocs\type-search-index.js = 1761252354793

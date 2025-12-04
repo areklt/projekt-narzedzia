@@ -1,0 +1,25 @@
+{
+  "klient": {
+      "imie": "Maja",
+      "nazwisko": "Kakles",
+      "email": "makles@gmail.com",
+      "numer": "+48 372 549 553"
+    },
+  "produkty": [
+    {
+      "kod": "27654A",
+      "ilosc": "2",
+      "jednostka": "szt"
+    },
+    {
+      "kod": "37492Q",
+      "ilosc": "15",
+      "jednostka": "g"
+    },
+    {
+      "kod": "44531B",
+      "ilosc": "75",
+      "jednostka": "ml"
+    }
+  ]
+}

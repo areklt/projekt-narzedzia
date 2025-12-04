@@ -1,0 +1,17 @@
+Index: src/test/java/org/example/ZamowienieValidatorTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import org.example.*;\r\nimport org.junit.jupiter.api.Test;\r\nimport static org.junit.jupiter.api.Assertions.*;\r\nimport com.github.nylle.javafixture.JavaFixture;\r\n\r\npublic class ZamowienieValidationTest {\r\n\r\n    private final JavaFixture fixture = new JavaFixture();\r\n\r\n    @Test\r\n    void validOrderShouldPassValidation() {\r\n        Zamowienie z = fixture.create(Zamowienie.class);\r\n\r\n        z.getKlient().setImie(\"Jan\");\r\n        z.getKlient().setNazwisko(\"Kowalski\");\r\n        z.getProdukty().get(0).setJednostka(\"kilogram\");\r\n        z.getProdukty().get(0).setIlosc(1);\r\n\r\n        assertTrue(z.isValid());\r\n    }\r\n}
+===================================================================
+diff --git a/src/test/java/org/example/ZamowienieValidatorTest.java b/src/test/java/org/example/ZamowienieValidatorTest.java
+--- a/src/test/java/org/example/ZamowienieValidatorTest.java	(revision 07df20bcff3bb7ed7590c8d7e052e12a2fe61d1f)
++++ b/src/test/java/org/example/ZamowienieValidatorTest.java	(date 1764106337781)
+@@ -3,7 +3,7 @@
+ import static org.junit.jupiter.api.Assertions.*;
+ import com.github.nylle.javafixture.JavaFixture;
+ 
+-public class ZamowienieValidationTest {
++public class ZamowienieValidatiorTest {
+ 
+     private final JavaFixture fixture = new JavaFixture();
+ 
